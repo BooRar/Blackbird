@@ -1,0 +1,12 @@
+/home/ubuntu/JonoBird/build/CMakeFiles/install/strip.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/install/local.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/install.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/blackbird_unity.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/blackbird.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/all_pch.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/all_unity.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/blackbird_pch.dir
+/home/ubuntu/JonoBird/build/CMakeFiles/clean_cotire.dir

@@ -1,0 +1,84 @@
+
+#!/usr/bin/env bash
+
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+printf "${RED}"
+cat <<- xx
+===================JAMES SOFTWARE=================	     ___       _ __   __  __  ___
+    / _ )__ __(_) /__/ / /  |/  /__ ___  __ __
+   / _  / // / / / _  / / /|_/ / -_) _ \/ // /
+  /____/\_,_/_/_/\_,_/ /_/  /_/\__/_//_/\_,_/
+
+==================================================
+
+xx
+printf "${NC}"
+
+PS3='Please enter your choice: '
+
+options=("Rebuild" "Run" "AltPath" "Help" "Quit")
+select opt in "${options[@]}"
+do
+    case $opt in
+        "Rebuild")
+          echo "you chose choice 1"
+		  echo
+		  echo "I'm in `pwd`"
+		  echo 
+		  echo "you chose choice 1"
+		  echo "you chose choice 1"
+		  echo "you chose choice 1"
+		  echo "you chose choice 1"
+		  echo
+
+            ;;
+        "Run")
+            echo "you chose choice 2"
+            ;;
+        "AltPath")
+            echo "you chose choice $REPLY which is $opt"
+            ;;
+		 "Help")
+            echo "you chose choice $REPLY which is $opt"
+		
+	
+
+ 
+ 
+count(){
+echo -n "opening Help! "
+  spin &
+  pid=$!
+ 
+  for i in `seq 1 10`
+  do
+    sleep 1;
+  done
+ echo "Done !"
+ echo
+ echo 
+  kill $pid  
+}
+ 
+spin(){
+  while [ 1 ]
+  do
+
+      echo -ne ".";
+      sleep 0.2;
+   
+  done
+}
+ 
+count
+            ;;
+        "Quit")
+            break
+            ;;
+        *) echo "invalid option $REPLY";;
+    esac
+done
+
+

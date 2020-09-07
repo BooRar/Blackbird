@@ -1,0 +1,7 @@
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/install/strip.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/socketclient.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/install/local.dir
+/home/ubuntu/JonoBird/socketclient/build/CMakeFiles/install.dir

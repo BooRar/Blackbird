@@ -1,0 +1,32 @@
+/* cotire.cmake 1.7.9 generated file */
+/* /home/ubuntu/JonoBird/build/cotire/blackbird_CXX_prefix.cxx */
+#pragma GCC system_header
+#ifdef __cplusplus
+#include "/usr/include/c++/7/utility"
+#include "/usr/include/c++/7/string"
+#include "/usr/include/c++/7/cmath"
+#include "/usr/include/c++/7/ctime"
+#include "/usr/include/c++/7/ostream"
+#include "/usr/include/c++/7/list"
+#include "/usr/include/sqlite3.h"
+#include "/usr/include/c++/7/memory"
+#include "/usr/include/c++/7/fstream"
+#include "/usr/include/c++/7/vector"
+#include "/usr/include/x86_64-linux-gnu/curl/curl.h"
+#include "/usr/include/c++/7/sstream"
+#include "/usr/include/c++/7/iomanip"
+#include "/usr/include/c++/7/iterator"
+#include "/usr/include/c++/7/algorithm"
+#include "/usr/include/c++/7/numeric"
+#include "/usr/include/jansson.h"
+#include "/usr/include/c++/7/chrono"
+#include "/usr/include/c++/7/thread"
+#include "/usr/include/c++/7/iostream"
+#include "/usr/include/unistd.h"
+#include "/usr/include/c++/7/cstdlib"
+#include "/usr/include/c++/7/cassert"
+#include "/usr/include/openssl/sha.h"
+#include "/usr/include/openssl/hmac.h"
+#include "/usr/include/c++/7/cctype"
+#include "/usr/include/openssl/md5.h"
+#endif

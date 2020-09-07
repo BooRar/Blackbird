@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/blackbird_unity.dir/cotire/blackbird_CXX_unity.cxx.o  -o blackbird -lcurl -ljansson -lssl -lcrypto -lsqlite3 
